@@ -5,5 +5,7 @@ git tracks changes
 git second changes
 creating a new branch is quick
 creating a new new branch
+creating a new branch is quick and simple
+
 
 
